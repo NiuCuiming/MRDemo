@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="patenr">
+    <output-path>$PROJECT_DIR$/out/artifacts/patenr</output-path>
+    <root id="archive" name="patenr.jar">
+      <element id="module-output" name="HDFS_MR" />
+    </root>
+  </artifact>
+</component>
